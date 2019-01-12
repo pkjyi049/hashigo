@@ -1,8 +1,12 @@
 ---
-title: "My First Post"
-date: 2019-01-12T13:09:43+09:00
+title: micky
+description: aaaaa
+date: 2019-01-12T04:09:43.000Z
 draft: true
-thumbnail: "images/mickey.jpg"
+thumbnail: images/mickey.jpg
+categories:
+  - ''
 ---
 
 早すぎる
+
